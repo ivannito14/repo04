@@ -1,4 +1,4 @@
-📌4.1 – Crea un directorio llamado repo04, esta vez tu decides como lo haces. Es decir, tendrás que
+git 📌4.1 – Crea un directorio llamado repo04, esta vez tu decides como lo haces. Es decir, tendrás que
 seleccionar uno de los dos caminos que hemos visto en los dos ejercicios anteriores.Pero si que
 queremos que exista el repositorio el local y en remoto.
 
