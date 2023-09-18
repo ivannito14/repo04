@@ -35,5 +35,6 @@ Usaremos ``git merge master`` para poderlo fusionar
 📌4.7 – Elimina solamente la rama en local david02032022 ya que si eliminásemos la remota no veríamos la rama en remoto.
 - Usaremos el comando ``git branch -d Ivan180923``
 ![Alt text](Screenshot_7.png)
+
 4.8 - Visualiza el resultado tanto mediante el comando git log --all --oneline -decorate –graph, comodesde el pluging de VSC
 ![Alt text](Screenshot_8.png)
