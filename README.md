@@ -9,12 +9,14 @@ queremos que exista el repositorio el local y en remoto.
 
 📌4.2 – Añade un fichero readme.md vacío al repositorio local, ejecuta los comandos pertinentes para realizar un commit y finalmente, sube los cambios al repositorio remoto que tendrá el mismo nombre repo04.
 
-![Alt text](Screenshot_1.png)
+<img width="364" alt="Screenshot_1" src="https://github.com/ivannito14/repo04/assets/144459495/4517deb5-6f4b-44e5-9fd2-d64c7e46c2c4">
+
 
 📌4.3 – Crea una rama con tu nombre y la fecha actual (por ejemplo en mi caso la rama se llamará
 david02032022)
 
-![Alt text](Screenshot_2.png)
+![Screenshot_2](https://github.com/ivannito14/repo04/assets/144459495/be69066a-0375-4b46-bad7-4c564856dbd7)
+
 
 📌4.4 – Desde tu rama (david02032022) edita el fichero readme.md de tal forma que quede de la siguiente
 manera:
