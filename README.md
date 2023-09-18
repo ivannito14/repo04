@@ -7,5 +7,3 @@ de manera local con ``mkdir repo04`` y accedemos a ella con ``cd repo04`` despue
 
 📌4.2 – Añade un fichero readme.md vacío al repositorio local, ejecuta los comandos pertinentes para realizar un commit y finalmente, sube los cambios al repositorio remoto que tendrá el mismo nombre repo04.
 
-![Alt text](Screenshot_1.png)
-
